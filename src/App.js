@@ -1,11 +1,10 @@
 import React from 'react'
-import SellerAdminPage from './components/SellerAdminPage'
-import ProductData from './components/ProductData'
+import Home from './components/Home'
 
 const App = () => {
   return (
     <div>
-      <SellerAdminPage/>>
+      <Home/>
     </div>
   )
 }
